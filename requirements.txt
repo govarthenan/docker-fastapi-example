@@ -1,4 +1,4 @@
-fastapi
+fastapi[full]
 uvicorn
 pytest
 requests
